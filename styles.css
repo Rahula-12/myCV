@@ -1,0 +1,171 @@
+.a{
+  width: 30%;
+  position: absolute;
+  top:0;
+  left: 0;
+  height: 1000px;
+  background-color: grey;
+  border-style: solid;
+  border-color: crimson;
+}
+.b{
+  width: 70%;
+  position: absolute;
+  top:0;
+  left: 0;
+  height: 1006px;
+  margin-left: 30.5%;
+  background-color: white;
+}
+img{
+  border-radius: 100%;
+  border-color: crimson;
+  border-width: thick;
+  border-style: solid;
+  position: relative;
+  left: 25%;
+  top: 5%;
+}
+h1{
+  font-family:serif;
+  color: crimson;
+  clear: left;
+  text-align: center;
+  position: relative;
+  top:5%;
+  left: auto;
+}
+.heading{
+  text-align: center;
+  color: white;
+  font-family: serif;
+  line-height: 3;
+  clear: left;
+}
+.personal
+{
+  color: crimson;
+  position: absolute;
+  left:10%;
+  font-family: serif;
+  font-size: 1.5rem;
+}
+.personal_details{
+  color: white;
+  position: relative;
+  font-family: serif;
+  top:7%;
+  line-height: 1.5rem;
+  left: 10%;
+}
+.contact
+{
+  color: crimson;
+  position: relative;
+  font-family: serif;
+  font-size: 1.5rem;
+  top: 7%;
+  left:10%;
+}
+.contact_details{
+  color: white;
+  position: relative;
+  font-family: serif;
+  top:7%;
+  line-height: 1.5rem;
+  left: 10%;
+}
+a{
+  text-decoration: none;
+  color: darkslategrey;
+}
+h2{
+  color: white;
+  display: inline-block;
+  background-color: crimson;
+  font-family:serif;
+  position: relative;
+  top: 4%;
+  left: 5%;
+}
+hr{
+  position: relative;
+  top: 1%;
+  left: 5%;
+}
+.profile{
+  line-height: 2rem;
+  text-align: left;
+  position: relative;
+  font-family:serif;
+  bottom: 2%;
+  left: 5%;
+}
+.education
+{
+  color: white;
+  display: inline-block;
+  background-color: crimson;
+  font-family:serif;
+  position: absolute;
+  top:18.2%;
+  left: 5%;
+}
+.hr2
+{
+  position: relative;
+  top: 3%;
+  left: 5%;
+}
+.education_details{
+  position: relative;
+  font-family:serif;
+  left: 5%;
+  top: 3%;
+  line-height: 2rem;
+  text-align: center;
+}
+.skills{
+  display: inline-block;
+  background-color: crimson;
+  color: white;
+  position: relative;
+  top: 4%;
+}
+.hr3
+{
+  top:1%;
+  position: relative;
+  left: 5%;
+}
+.skill_details
+{
+  position: relative;
+  font-family:serif;
+  left: 5%;
+  line-height: 2rem;
+  top: 0.9%;
+}
+a:hover{
+  color: blue;
+}
+.courses_completed{
+  display: inline-block;
+  background-color: crimson;
+  color: white;
+  position: relative;
+  top: 0;
+}
+.hr4{
+  position: relative;
+  top: -2.7%;
+  left: 5%;
+}
+.courses
+{
+  position: relative;
+  font-family:serif;
+  left: 5%;
+  line-height: 2rem;
+  bottom: 2.5%;
+}
